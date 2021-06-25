@@ -1,6 +1,6 @@
 import streamlit as st
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
